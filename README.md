@@ -7,3 +7,5 @@
   <li> API Views para o método HTPP GET </li>
   <li> API Views para o método HTPP POST </li>
 </ul>
+<hr>
+<p> API Finalizada</P>
